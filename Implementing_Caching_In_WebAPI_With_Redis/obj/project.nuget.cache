@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZExsIPCxaXaSBrP2GfSk62Sx6xFDBLsmYysSPsX9yDhiES2LDLgQz1c8v0bMYUF5asMmG1g5KY9QqQ23pGV4Bw==",
+  "dgSpecHash": "sIUB3D6yWdcsD9WBXw/VrYW8CXAB6+zoh0Xqsy4U7xLMlra/imYutsXuQLOZ+972QIt6u9U8aparCWX4fazdlQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\Desktop\\Side-Projects\\Working_with_Cache\\Caching-In-WebAPI\\Implementing_Caching_In_WebAPI_With_Redis\\Implementing_Caching_In_WebAPI_With_Redis.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\htmlagilitypack\\1.11.50\\htmlagilitypack.1.11.50.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
