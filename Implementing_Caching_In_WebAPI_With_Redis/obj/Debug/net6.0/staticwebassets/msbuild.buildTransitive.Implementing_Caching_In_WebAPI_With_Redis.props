@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Implementing_Caching_In_WebAPI_With_Redis.props" />
+</Project>
